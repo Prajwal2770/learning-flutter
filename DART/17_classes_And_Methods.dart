@@ -7,6 +7,7 @@ class Person {
     print("The age is $age");
   }
 }
+
 void main() {
   Person person = Person(name: "Prajwal",age: 19);
 
